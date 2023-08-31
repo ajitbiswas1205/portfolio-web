@@ -5,7 +5,9 @@
     #search{
        font-size: x-small;
        text-align: center;
-       background: #000;
+       border: 1px solid black;
+        background-color:white;
+        color:black:
        max-width: 127px;
     }
    
