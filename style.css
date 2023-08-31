@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+@media only screen and (max-width:300px){
+    #search{
+       font-size: x-small;
+       text-align: center;
+       background: #000;
+       max-width: 127px;
+    }
+   
+   
+   
+}
+@media only screen and (max-width:300px){
+   #button{
+       font-size: xx-small;
+       text-align: center;
+       background: #000;
+       margin-left: 2px;
+    }
+   
+   
+   
+}
+@media(max-width:300px){
+    .testimonial{
+        color: rgb(89, 42, 165);
+    }
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar-light .navbar-nav a{
+    text-transform: uppercase;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+}
